@@ -5,6 +5,8 @@ comments: false
 ---
 
 1. [Colobot: Gold Edition](#colobot-gold-edition)
+1. [Tetris](#tetris)
+1. [Go](#go)
 1. [Projectile Motion Simulation](#projectile-motion-simulation)
 1. [Fast Imgur Screenshooter](#fast-imgur-screenshooter)
 1. [SPOJ](#spoj)
@@ -16,7 +18,7 @@ comments: false
 
 ![screenshot](/img/portfolio/colobot.png)
 
-> Colobot: Gold Edition to gra RTS, w której możesz programować swe jednostki (roboty) w języku CBOT, podobnym do Java'y i C++ . Twoją misją jest znaleźć nową planetę do zamieszkania i przetrwać. Ocal ludzkość i naucz się programować!
+> Colobot: Gold Edition to gra RTS, w której możesz programować swe jednostki (roboty) w języku CBOT, podobnym do Java'y i C++. Twoją misją jest znaleźć nową planetę do zamieszkania i przetrwać. Ocal ludzkość i naucz się programować!
 
 **Data:** 2014 rok do teraz  
 **Link:** https://colobot.info/  
@@ -28,6 +30,28 @@ Stworzyłem kilka mniejszych projektów bezpośrednio związanych z grą główn
 
 * [Alludo](https://github.com/MrSimbax/colobot-alludo) -- specjalny poziom ze wszystkimi modelami w grze i teksturą gruntu ukazującą jednostki używane w grze.
 * Paczka z kolorowaniem składni dla [Atoma](https://github.com/MrSimbax/colobot-development-pack) oraz [Sublime Text](https://github.com/MrSimbax/sublime-colobot-syntax).
+
+# Tetris #
+
+![screenshot](/img/portfolio/tetris.png)
+
+**Data:** 2017 rok (kilka dni)  
+**Link:** [APK](https://www.dropbox.com/s/rh92fu8no5txnee/info.simbax.tetris_v3.apk)  
+**Tagi:** `Java`, `Android`, `Grafika komputerowa`
+
+Projekt na studia. Gra mobilna oparta o klasycznego Tetrisa. Wymaga Androida co najmniej w wersji 4.4. Pisana pod wersję 7.1. Dostosowuje się do rozmiaru ekranu.
+
+# Go #
+
+![screenshot](/img/portfolio/gowebapp.png)
+
+**Data:** 2016 / 2017 rok (projekt pod koniec semestru, ok. 2 miesiące)  
+**Link:** https://github.com/PWRRGMP2017/go  
+**Tagi:** `Java 8`, `JavaFX`, `Akka`, `Play`, `Websockets`, `AOP`, `git`, `JavaScript`, `CSS`, `HTML`
+
+Projekt na studia wykonany razem z Robertiem Gawlikiem. Jest to aplikacja klient-serwer w dwóch wariantach: na desktop oraz jako aplikacja webowa. Korzysta ona z nowych technologii (patrz: tagi) oraz stosuje wiele różnych wzorców projektowych.
+
+W wersję webową można zagrać tutaj: http://gowebapprgmp.herokuapp.com/
 
 # Projectile Motion Simulation #
 
