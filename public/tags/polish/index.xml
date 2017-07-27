@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Polish on simbax dot info</title>
+    <link>http://simbax.info/tags/polish/</link>
+    <description>Recent content in Polish on simbax dot info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <managingEditor>matt@simbax.info (Mateusz Przybył)</managingEditor>
+    <webMaster>matt@simbax.info (Mateusz Przybył)</webMaster>
+    <lastBuildDate>Sat, 16 Jul 2016 18:17:45 +0200</lastBuildDate>
+    
+	<atom:link href="http://simbax.info/tags/polish/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zagadka o więźniach, co już nigdy tęczy mieli nie zobaczyć</title>
+      <link>http://simbax.info/post/zagadka-o-wiezniach/</link>
+      <pubDate>Sat, 16 Jul 2016 18:17:45 +0200</pubDate>
+      <author>matt@simbax.info (Mateusz Przybył)</author>
+      <guid>http://simbax.info/post/zagadka-o-wiezniach/</guid>
+      <description>Zostajesz zamknięty w jednym pomieszczeniu razem z sześcioma nieznajomymi. Do pokoju wchodzi uzbrojony strażnik i informuje was, że wkrótce zostaniecie przeniesieni do osobnych izolowanych cel i od tego momentu nie będziecie już mogli się ze sobą komunikować. Następnie każdemu z was zostanie przydzielony jeden z siedmiu kolorów tęczy (czerwony, pomarańczowy, żółty, zielony, niebieski, indygo, fioletowy). Potem każdy z was zostanie poinformowany, jakie kolory zostały przydzielone pozostałym sześciu osobom, w porządku losowym.</description>
+    </item>
+    
+  </channel>
+</rss>

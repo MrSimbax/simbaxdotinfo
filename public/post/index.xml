@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on simbax dot info</title>
+    <link>http://simbax.info/post/</link>
+    <description>Recent content in Posts on simbax dot info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <managingEditor>matt@simbax.info (Mateusz Przybył)</managingEditor>
+    <webMaster>matt@simbax.info (Mateusz Przybył)</webMaster>
+    <lastBuildDate>Sat, 16 Jul 2016 18:17:45 +0200</lastBuildDate>
+    
+	<atom:link href="http://simbax.info/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zagadka o więźniach, co już nigdy tęczy mieli nie zobaczyć</title>
+      <link>http://simbax.info/post/zagadka-o-wiezniach/</link>
+      <pubDate>Sat, 16 Jul 2016 18:17:45 +0200</pubDate>
+      <author>matt@simbax.info (Mateusz Przybył)</author>
+      <guid>http://simbax.info/post/zagadka-o-wiezniach/</guid>
+      <description>Zostajesz zamknięty w jednym pomieszczeniu razem z sześcioma nieznajomymi. Do pokoju wchodzi uzbrojony strażnik i informuje was, że wkrótce zostaniecie przeniesieni do osobnych izolowanych cel i od tego momentu nie będziecie już mogli się ze sobą komunikować. Następnie każdemu z was zostanie przydzielony jeden z siedmiu kolorów tęczy (czerwony, pomarańczowy, żółty, zielony, niebieski, indygo, fioletowy). Potem każdy z was zostanie poinformowany, jakie kolory zostały przydzielone pozostałym sześciu osobom, w porządku losowym.</description>
+    </item>
+    
+    <item>
+      <title>Why Are Horror Games the Hardest to Pull Off?</title>
+      <link>http://simbax.info/post/horror-games/</link>
+      <pubDate>Sat, 07 May 2016 18:17:45 +0200</pubDate>
+      <author>matt@simbax.info (Mateusz Przybył)</author>
+      <guid>http://simbax.info/post/horror-games/</guid>
+      <description>Having beaten SOMA recently, I was curiously delving into the story, admiring the gorgeous, thoughtful, detailed, realistic environments created by Frictional Games, when I realized how much work and love must be put into the process of game developing. It took them nearly five years to finally release a masterfully crafted masterpiece in science fiction storytelling and horror genre. Not only did they spend this time on the game itself, but also on the whole behind-the-scenes background being a great appendix to the plot.</description>
+    </item>
+    
+  </channel>
+</rss>

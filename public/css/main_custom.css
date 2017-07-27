@@ -1,0 +1,52 @@
+/*html {
+  font-family: 'Merriweather', serif;
+}*/
+
+body {
+  font-family: 'Merriweather', serif;
+  /*font-size: 20px;*/
+}
+
+blockquote {
+  font-family: 'Merriweather', serif;
+  /*font-size: 20px;*/
+}
+
+.main-explain-area {
+  font-family: 'Merriweather', serif;
+  /*font-size: 20px;*/
+}
+
+.post-preview .post-entry {
+  font-family: 'Merriweather', serif;
+  /*font-size: 20px;*/
+}
+
+/*h1, h2, h3, h4, h5, h6 {
+  font-family: 'Merriweather', serif;
+}
+
+.navbar-custom {
+  font-family: 'Merriweather', serif;
+}
+
+footer .copyright {
+  font-family: 'Merriweather', serif;
+}*/
+
+/*.blog-tags {
+  font-family: 'Merriweather', serif;
+}
+
+.intro-header .page-heading .page-subheading,
+.intro-header .post-heading .post-subheading {
+  font-family: 'Merriweather', serif;
+}
+
+.intro-header.big-img .img-desc {
+  font-family: 'Merriweather', serif;
+}
+
+.pager li a {
+  font-family: 'Merriweather', serif;
+}*/

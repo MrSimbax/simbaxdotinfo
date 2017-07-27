@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>simbax dot info</title>
+    <link>http://simbax.info/</link>
+    <description>Recent content on simbax dot info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <managingEditor>matt@simbax.info (Mateusz Przybył)</managingEditor>
+    <webMaster>matt@simbax.info (Mateusz Przybył)</webMaster>
+    <lastBuildDate>Sat, 16 Jul 2016 18:17:45 +0200</lastBuildDate>
+    
+	<atom:link href="http://simbax.info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zagadka o więźniach, co już nigdy tęczy mieli nie zobaczyć</title>
+      <link>http://simbax.info/post/zagadka-o-wiezniach/</link>
+      <pubDate>Sat, 16 Jul 2016 18:17:45 +0200</pubDate>
+      <author>matt@simbax.info (Mateusz Przybył)</author>
+      <guid>http://simbax.info/post/zagadka-o-wiezniach/</guid>
+      <description>Zostajesz zamknięty w jednym pomieszczeniu razem z sześcioma nieznajomymi. Do pokoju wchodzi uzbrojony strażnik i informuje was, że wkrótce zostaniecie przeniesieni do osobnych izolowanych cel i od tego momentu nie będziecie już mogli się ze sobą komunikować. Następnie każdemu z was zostanie przydzielony jeden z siedmiu kolorów tęczy (czerwony, pomarańczowy, żółty, zielony, niebieski, indygo, fioletowy). Potem każdy z was zostanie poinformowany, jakie kolory zostały przydzielone pozostałym sześciu osobom, w porządku losowym.</description>
+    </item>
+    
+    <item>
+      <title>Why Are Horror Games the Hardest to Pull Off?</title>
+      <link>http://simbax.info/post/horror-games/</link>
+      <pubDate>Sat, 07 May 2016 18:17:45 +0200</pubDate>
+      <author>matt@simbax.info (Mateusz Przybył)</author>
+      <guid>http://simbax.info/post/horror-games/</guid>
+      <description>Having beaten SOMA recently, I was curiously delving into the story, admiring the gorgeous, thoughtful, detailed, realistic environments created by Frictional Games, when I realized how much work and love must be put into the process of game developing. It took them nearly five years to finally release a masterfully crafted masterpiece in science fiction storytelling and horror genre. Not only did they spend this time on the game itself, but also on the whole behind-the-scenes background being a great appendix to the plot.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://simbax.info/page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>matt@simbax.info (Mateusz Przybył)</author>
+      <guid>http://simbax.info/page/contact/</guid>
+      <description>Na dole strony znajdują się między innymi ikonki przekierowujące do moich profili społecznościowych, gdzie można do mnie napisać. Miej jednak na uwadze, że nie akceptuję zaproszeń do znajomych od nieznajomych osób.
+Mój adres mailowy poznasz po wciśnięciu ikonki koperty.</description>
+    </item>
+    
+    <item>
+      <title>O mnie</title>
+      <link>http://simbax.info/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>matt@simbax.info (Mateusz Przybył)</author>
+      <guid>http://simbax.info/page/about/</guid>
+      <description>Cześć, jestem Mateusz Przybył, w Internecie rozpoznasz mnie po pseudonimie Simbax. Obecnie studiuję informatykę na Wydziale Podstawowych Problemów Techniki Politechniki Wrocławskiej.
+Staram się rozwijać w różnych kierunkach związanych z informatyką. Umiem coś ładnego zaprojektować w Inkscape, i trochę już w życiu programowałem, choć na razie nic komercyjnego. Zapraszam do przejrzenia mojego portfolio, gdzie zebrałem i opisałem krótko niektóre moje ciekawsze projekty.
+W wolnym czasie lubię przede wszystkim grać, choć preferuję raczej gry stosunkowo krótkie i z fabułą, ale ciekawym multi nie pogardzę.</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://simbax.info/page/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>matt@simbax.info (Mateusz Przybył)</author>
+      <guid>http://simbax.info/page/portfolio/</guid>
+      <description>Colobot: Gold Edition Projectile Motion Simulation Fast Imgur Screenshooter SPOJ Run, Stupid, Run! Zakazany Las I wiele innych&amp;hellip;  Colobot: Gold Edition  Colobot: Gold Edition to gra RTS, w której możesz programować swe jednostki (roboty) w języku CBOT, podobnym do Java&amp;rsquo;y i C++ . Twoją misją jest znaleźć nową planetę do zamieszkania i przetrwać. Ocal ludzkość i naucz się programować!
+ Data: 2014 rok do teraz
+Link: https://colobot.</description>
+    </item>
+    
+  </channel>
+</rss>
