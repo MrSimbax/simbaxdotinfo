@@ -42,7 +42,7 @@ fi
 git commit -m "$msg"
 
 # Push to GitHub Pages
-git push origin master
+git push origin HEAD:master
 
 # Come back up to the project root
 cd ..
