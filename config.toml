@@ -1,7 +1,7 @@
-baseURL = "http://simbax.info/"
+baseURL = "http://przybyl.io"
 languageCode = "pl-pl"
 DefaultContentLanguage = "pl"
-title = "simbax dot info"
+title = "Przybył.io"
 theme = "beautifulhugo"
 disqusShortname = "simbaxdotinfo"
 googleAnalytics = "UA-35178175-4"
@@ -22,7 +22,7 @@ googleAnalytics = "UA-35178175-4"
 
 [Author]
   name = "Mateusz Przybył"
-  email = "matt@simbax.info"
+  email = "matt@przybyl.io"
   steam = "simbax"
 #  facebook = "username"
 #  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
