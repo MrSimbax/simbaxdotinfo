@@ -4,3 +4,18 @@ Do not put anything in this file - it's only here so that hugo won't throw an er
 -->
 <link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700,700i&amp;subset=latin-ext" rel="stylesheet">
 <link rel="stylesheet" href="{{ "css/main_custom.css" | absURL }}" />
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      extensions: ["tex2jax.js"],
+      jax: ["input/TeX", "output/HTML-CSS"],
+      tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true
+      },
+      "HTML-CSS": { availableFonts: ["TeX"] }
+    });
+</script>
+<script type="text/javascript"
+   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
