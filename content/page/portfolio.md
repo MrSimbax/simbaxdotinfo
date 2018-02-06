@@ -5,10 +5,11 @@ comments: false
 ---
 
 1. [Colobot: Gold Edition](#colobot-gold-edition)
+1. [Kompilator](#kompilator)
 1. [Tetris](#tetris)
 1. [Go](#go)
 1. [Projectile Motion Simulation](#projectile-motion-simulation)
-1. [Fast Imgur Screenshooter](#fast-imgur-screenshooter)
+<!--1. [Fast Imgur Screenshooter](#fast-imgur-screenshooter)-->
 1. [SPOJ](#spoj)
 1. [Run, Stupid, Run!](#run-stupid-run)
 1. [Zakazany Las](#zakazany-las)
@@ -29,7 +30,15 @@ Jestem aktywnym członkiem [TerranovaTeam](https://colobot.info/pl/terranovateam
 Stworzyłem kilka mniejszych projektów bezpośrednio związanych z grą głównie w celu usprawnienia procesu jej modowania i developingu:
 
 * [Alludo](https://github.com/MrSimbax/colobot-alludo) -- specjalny poziom ze wszystkimi modelami w grze i teksturą gruntu ukazującą jednostki używane w grze.
-* Paczka z kolorowaniem składni dla [Atoma](https://github.com/MrSimbax/colobot-development-pack) oraz [Sublime Text](https://github.com/MrSimbax/sublime-colobot-syntax).
+* Paczka z kolorowaniem składni dla [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Simbax.colobot-extension), [Sublime Text](https://github.com/MrSimbax/sublime-colobot-syntax) oraz [Atoma](https://github.com/MrSimbax/colobot-development-pack).
+
+# Kompilator #
+
+**Data:** 2017 / 2018 rok (około tydzień łącznie z optymalizacjami)  
+**Link:** https://github.com/MrSimbax/Kompilator_JFTT_2017  
+**Tagi:** `C/C++`, `BISON`, `FLEX`, `cln`
+
+Projekt kompilatora dla specjalnego języka programowania i maszyny rejestrowej w ramach przedmiotu _Języki formalne i techniki translacji_.
 
 # Tetris #
 
@@ -59,10 +68,11 @@ W wersję webową można zagrać tutaj: http://gowebapprgmp.herokuapp.com/
 
 **Data:** 2013 / 2014 rok (projekt na konkurs w liceum)  
 **Link:** https://github.com/MrSimbax/Projectile-Motion-Simulation  
-**Tagi:** `C++`, `Unity3D`, `Fizyka`
+**Tagi:** `C#`, `Unity3D`, `Fizyka`
 
 Symulacja rzutu ukośnego z modelem 3D katapulty Leonarda da Vinci wykonanym przez współpracownika przy tym projekcie: Piotra Klemczaka. Program miał swoją "premierę" podczas ogólnopolskiego konkursu ["Nauki Przyrodnicze na Scenie 6"](http://www.staff.amu.edu.pl/~fizscena/SOS6raport.htm), podczas którego za wykonaną prezentację otrzymaliśmy wyróżnienie.
 
+<!--
 # Fast Imgur Screenshooter #
 
 **Data:** 2014 rok (1-2 dni)  
@@ -70,6 +80,7 @@ Symulacja rzutu ukośnego z modelem 3D katapulty Leonarda da Vinci wykonanym prz
 **Tagi:** `Linux`, `Python`
 
 Skrypt stworzony specjalnie pod moje potrzeby na Linuxie, gdyż zabrakło mi porządnej aplikacji do robienia screenshotów i mogącej jednocześnie uploadować je na Imgura z *logowaniem na konto*.
+-->
 
 # SPOJ #
 
