@@ -5,6 +5,7 @@ title = "Przybył.io"
 theme = "beautifulhugo"
 disqusShortname = "simbaxdotinfo"
 googleAnalytics = "UA-35178175-4"
+summaryLength = 30
 
 [params]
   subtitle = "Taki sobie blog jakiegoś tam studenta informatyki."
