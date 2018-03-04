@@ -1,7 +1,6 @@
 ---
 title: "Jak wyciąć fragment filmu bez utraty jakości używając ffmpeg?"
 date: 2018-03-04T11:23:52+01:00
-draft: true
 tags: [Polish, Linux, Bash, Batch]
 ---
 
