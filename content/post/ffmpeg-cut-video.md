@@ -35,7 +35,7 @@ Na szczęście istnieją porządne, uniwersalne (i otwarte) programy takie jak
 przemyślana i sprawdzona komenda może być wsadzona do parametryzowanego skryptu
 do ponownego użycia w przyszłości.
 
-Sam nie jestem znawcą `ffmpeg` więc napotkałem na drodze do celu kilka
+Sam nie jestem znawcą `ffmpeg`, więc napotkałem na drodze do celu kilka
 problemów, których się nie spodziewałem. Jeśli interesuje cię tylko gotowy
 działania skrypt, to przejdź od razu do [ostatniej sekcji](#ostateczna-komenda).
 
@@ -146,11 +146,12 @@ informacji.
 ## Wygodne skrypty
 
 Miało być wygodniej, a ostateczne polecenie jest długie i stosunkowo
-skomplikowane. Cóż, można usprawnić jej używanie przez napisanie odpowiedniego
-skryptu z odpowiednimi parametrami. Najlepiej jakby ten skrypt od razu wrzucał
-wycięty klip do chmury.
+skomplikowane. Cóż, można usprawnić jego używanie przez napisanie odpowiedniego
+skryptu z parametrami. Najlepiej jakby ten skrypt od razu wrzucał wycięty klip
+do chmury lub wybranego folderu.
 
-Postanowiłem więc powtórzyć sobie Basha oraz Batcha* i napisać odpowiednie skrypty.
+Postanowiłem więc powtórzyć sobie Basha oraz Batcha* i napisać odpowiednie
+skrypty.
 
 **Uwaga.** Poniższe skrypty zakładają, że `ffmpeg` jest zainstalowany poprawnie
 oraz że polecenie `ffmpeg` działa w konsoli (tzn. binarka `ffmpeg[.exe]` jest
