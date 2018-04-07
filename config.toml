@@ -1,4 +1,4 @@
-baseURL = "http://przybyl.io"
+baseURL = "https://przybyl.io"
 languageCode = "pl-pl"
 DefaultContentLanguage = "pl"
 title = "Przybył.io"

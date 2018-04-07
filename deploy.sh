@@ -7,6 +7,11 @@
 #   - uglifyjs, clean-css (npm install -g uglify-js clean-css)
 # - optimize new PNGs by hand using optipng -o7
 # - remember to push to the source repo too before/after deploying
+#
+# Remember to set before running
+# git config git-ftp.url
+# git config git-ftp.user
+# git config git-ftp.password
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
@@ -43,6 +48,8 @@ git commit -m "$msg"
 
 # Push to GitHub Pages
 git push origin HEAD:master
+
+# Upload to FTP using git-ftp
 
 # Come back up to the project root
 cd ..
