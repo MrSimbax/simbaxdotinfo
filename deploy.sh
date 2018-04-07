@@ -8,10 +8,11 @@
 # - optimize new PNGs by hand using optipng -o7
 # - remember to push to the source repo too before/after deploying
 #
-# Remember to set before running
+# Remember to set before running in public/ folder
 # git config git-ftp.url
 # git config git-ftp.user
 # git config git-ftp.password
+# git config git-ftp.syncroot .
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
@@ -50,6 +51,7 @@ git commit -m "$msg"
 git push origin HEAD:master
 
 # Upload to FTP using git-ftp
+git ftp push
 
 # Come back up to the project root
 cd ..
